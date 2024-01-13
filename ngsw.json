@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1705189951363,
+  "index": "/moriartyangularapplication/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/moriartyangularapplication/favicon.ico",
+        "/moriartyangularapplication/index.html",
+        "/moriartyangularapplication/main.e83c214aec56de40.js",
+        "/moriartyangularapplication/manifest.webmanifest",
+        "/moriartyangularapplication/polyfills.73c24706e462c6cf.js",
+        "/moriartyangularapplication/runtime.b5537fb65526ebf4.js",
+        "/moriartyangularapplication/styles.0205a323d0103bd3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/moriartyangularapplication/assets/Build/webglintro2.data",
+        "/moriartyangularapplication/assets/Build/webglintro2.framework.js",
+        "/moriartyangularapplication/assets/Build/webglintro2.loader.js",
+        "/moriartyangularapplication/assets/Build/webglintro2.wasm",
+        "/moriartyangularapplication/assets/Vilain01.mp4",
+        "/moriartyangularapplication/assets/background.png",
+        "/moriartyangularapplication/assets/background_hint.jpg",
+        "/moriartyangularapplication/assets/bckground.jpg",
+        "/moriartyangularapplication/assets/click_pen.png",
+        "/moriartyangularapplication/assets/cursor_pen.png",
+        "/moriartyangularapplication/assets/final.mp4",
+        "/moriartyangularapplication/assets/icons/icon-128x128.png",
+        "/moriartyangularapplication/assets/icons/icon-144x144.png",
+        "/moriartyangularapplication/assets/icons/icon-152x152.png",
+        "/moriartyangularapplication/assets/icons/icon-192x192.png",
+        "/moriartyangularapplication/assets/icons/icon-384x384.png",
+        "/moriartyangularapplication/assets/icons/icon-512x512.png",
+        "/moriartyangularapplication/assets/icons/icon-72x72.png",
+        "/moriartyangularapplication/assets/icons/icon-96x96.png",
+        "/moriartyangularapplication/assets/introvideo.mp4",
+        "/moriartyangularapplication/assets/puzzle.png",
+        "/moriartyangularapplication/background.c48920057b507441.png",
+        "/moriartyangularapplication/background_hint.16f19dd597714799.jpg",
+        "/moriartyangularapplication/click_pen.afc087e481026bac.png",
+        "/moriartyangularapplication/cursor_pen.fc65b6cee100bda9.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/moriartyangularapplication/assets/Build/webglintro2.data": "72c74b8e375bf8bcca19bfab541709f15a0d89a2",
+    "/moriartyangularapplication/assets/Build/webglintro2.framework.js": "353cf88c91b64b9f900ad5d3a0316868c86b5061",
+    "/moriartyangularapplication/assets/Build/webglintro2.loader.js": "9865c2bda779c42817677f502c1eabedf9e1d021",
+    "/moriartyangularapplication/assets/Build/webglintro2.wasm": "0dccc51af0920930ecb888910a24c79392b1ff1e",
+    "/moriartyangularapplication/assets/Vilain01.mp4": "d870495df89db9697a0462590ff4530d0b32da3a",
+    "/moriartyangularapplication/assets/background.png": "801437534720e1b7491d78860ff0bfcd61abebbf",
+    "/moriartyangularapplication/assets/background_hint.jpg": "2e54e6d59da038425fe53dc9c0569e4484d277f2",
+    "/moriartyangularapplication/assets/bckground.jpg": "6fb86938365bd1d06941448cc7468295fab787b8",
+    "/moriartyangularapplication/assets/click_pen.png": "003c676828ecaf16b43b35a04261e1d6f0200de4",
+    "/moriartyangularapplication/assets/cursor_pen.png": "c4968e1ab6feb9ff11287da692617a3e48acf3ac",
+    "/moriartyangularapplication/assets/final.mp4": "4af9f8d9265df016dd4ed642b5a153eba1246644",
+    "/moriartyangularapplication/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/moriartyangularapplication/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/moriartyangularapplication/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/moriartyangularapplication/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/moriartyangularapplication/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/moriartyangularapplication/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/moriartyangularapplication/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/moriartyangularapplication/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/moriartyangularapplication/assets/introvideo.mp4": "902ab64eb4717af97827e9b7a9b6a9bc1597af91",
+    "/moriartyangularapplication/assets/puzzle.png": "d7996f9d2ccb6c80dfa2ac039e031450bd771e2f",
+    "/moriartyangularapplication/background.c48920057b507441.png": "801437534720e1b7491d78860ff0bfcd61abebbf",
+    "/moriartyangularapplication/background_hint.16f19dd597714799.jpg": "2e54e6d59da038425fe53dc9c0569e4484d277f2",
+    "/moriartyangularapplication/click_pen.afc087e481026bac.png": "003c676828ecaf16b43b35a04261e1d6f0200de4",
+    "/moriartyangularapplication/cursor_pen.fc65b6cee100bda9.png": "c4968e1ab6feb9ff11287da692617a3e48acf3ac",
+    "/moriartyangularapplication/favicon.ico": "c4cf59ff687a42aaf8b368b3a740b8fe40ead158",
+    "/moriartyangularapplication/index.html": "4f8ace0f840f493cbe02494c99eaddec8b4f5f67",
+    "/moriartyangularapplication/main.e83c214aec56de40.js": "9b2b2fe9fc8f7add6e0e51e64e828f0c12da3656",
+    "/moriartyangularapplication/manifest.webmanifest": "4e9f25cbfdf0939c8dec48b18ced1d9fc391d08c",
+    "/moriartyangularapplication/polyfills.73c24706e462c6cf.js": "95beb4b445caee928618bad9eaf183513525af78",
+    "/moriartyangularapplication/runtime.b5537fb65526ebf4.js": "5340747b61685ff127d85c87c8779c2e90396476",
+    "/moriartyangularapplication/styles.0205a323d0103bd3.css": "d1487954f1b59498ce91cfe60186a5199e65d937"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
