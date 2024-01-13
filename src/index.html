@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Moriarty & the Water Engine Case</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/0d90f8fddc.js" crossorigin="anonymous"></script>
+
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+</head>
+
+<body>
+  <app-spacebar-button></app-spacebar-button>
+
+  <canvas width="1920" height="1080" id="unity-canvas" style="cursor: default;"></canvas>
+
+  <app-root></app-root>
+
+
+  <div id="myModal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+      <div class="textbutton-container">
+        <div class="upper-part">
+          <p id="text-hint">Here is your hint fellow detective!</p>
+        </div>
+        <span class="exit-button" onclick="closeModal()">x</span>
+      </div>
+      <div class="lower-part">
+        <!-- Replace 'your-image.jpg' with the actual image file in your asset folder -->
+        <img class="modal-image" src="./assets/puzzle.png" alt="Hint Image">
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="assets/Build/webglintro2.loader.js"></script>
+
+  <script>
+    function closeModal() {
+      document.getElementById("myModal").style.display = "none";
+    }
+  </script>
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+</body>
+
+</html>
